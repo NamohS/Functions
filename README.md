@@ -13,3 +13,6 @@ The last four versions take four arguments, two integers and two doubles, and re
 In the `main()` function, we call the `sum()` function with various combinations of integer and double arguments. 
 The output shows that the correct version of the `sum()` function is called each time, depending on the types of the arguments.
 
+<div align="left">
+  <img src="ky.png" width="17.5%" height="17.5%"/>
+</div><br/>
